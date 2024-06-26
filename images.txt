@@ -9,3 +9,5 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 --platform=linux/arm64 alpine:3.18.4
 --platform=linux/amd64 openresty/openresty:1.21.4.2-1-alpine-fat
 --platform=linux/arm64 openresty/openresty:1.21.4.2-1-alpine-fat
+
+
